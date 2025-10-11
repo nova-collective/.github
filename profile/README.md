@@ -31,12 +31,20 @@ This organization is committed to using technologies that are sustainable from e
 
 ## 📊 Our Members Stats
 
-### g3k0
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
-<div align="center">
+<div>
 
 ![g3k0 Stats](https://github-readme-stats.vercel.app/api?username=g3k0&show_icons=true&theme=radical)
 
+</div>
+
+<div>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g3k0&layout=compact&theme=radical)
+
+</div>
+
+</div>
 
 </div>
