@@ -6,6 +6,7 @@
 ## 🚀 About Us
 
 We are a passionate team of blockchain developers building cutting-edge Web3 applications. Our mission is to drive adoption of decentralized technologies through innovative solutions, secure smart contracts, and user-friendly dApps.
+
 This organization is committed to using technologies that are sustainable from environmental, economic, and social perspectives.
 
 ## 🏗️ Our Tech Stack
