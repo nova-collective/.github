@@ -29,12 +29,14 @@ This organization is committed to using technologies that are sustainable from e
 ![The Graph](https://img.shields.io/badge/the_graph-171717?style=for-the-badge&logo=thegraph&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 Organization Stats
+## 📊 Our Members Stats
+
+### g3k0
 
 <div align="center">
 
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=nova-collective&show_icons=true&theme=radical)
+![g3k0 Stats](https://github-readme-stats.vercel.app/api?username=g3k0&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nova-collective&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g3k0&layout=compact&theme=radical)
 
 </div>
