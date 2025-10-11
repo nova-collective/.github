@@ -1,4 +1,4 @@
-# 🌐 Web3 Development Organization
+# 🌐 Nova Collective
 
 > **Building the Decentralized Future** · *Smart Contracts · dApps · DeFi · NFT*
 
