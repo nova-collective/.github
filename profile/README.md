@@ -31,17 +31,43 @@ This organization is committed to using technologies that are sustainable from e
 
 ## 📊 Our Members Stats
 
-## 📊 Our Members Stats
-
 <div align="center">
 
-#### 🚀 g3k0
+### 🏆 Team Contributions
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 15px 0;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-![g3k0 Stats](https://github-readme-stats.vercel.app/api?username=g3k0&show_icons=true&theme=radical&hide_border=true&bg_color=45,667eea,764ba2)
+<!-- Member 1: g3k0 -->
+<div style="text-align: center;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g3k0&layout=compact&theme=radical&hide_border=true&bg_color=45,667eea,764ba2)
+#### 👨‍💻 g3k0
+
+<div style="border: 2px solid #444; border-radius: 10px; padding: 15px; background: #1a1a1a;">
+
+![g3k0 Stats](https://github-readme-stats.vercel.app/api?username=g3k0&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g3k0&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+</div>
+
+<!-- Template per membri futuri -->
+<!--
+<div style="text-align: center;">
+
+#### 👩‍💻 username
+
+<div style="border: 2px solid #444; border-radius: 10px; padding: 15px; background: #1a1a1a;">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+</div>
+-->
 
 </div>
 
