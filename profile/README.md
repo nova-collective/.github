@@ -56,20 +56,17 @@ We are a **passionate collective of blockchain developers** navigating through t
 
 Our mission transcends traditional boundaries—we're not just writing code, we're **architecting tomorrow's infrastructure**. From smart contract foundations to user-centric dApps, we explore every facet of this blockchain universe.
 
-<div align="center">
 
 ### WEB3 Evolution Pathway
   
 ```
-WEB2 ────────────────────────► WEB3
+WEB2       ──────────────────► WEB3
       
 Blockchain ──────────────────► Decentralized
 DeFi       ──────────────────► Future  
 NFTs       ──────────────────►
 DAOs       ──────────────────►
 ```
-
-</div>
 
 <br/>
 
